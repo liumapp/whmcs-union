@@ -1,0 +1,15 @@
+{
+    "name": "liumapp/whmcs",
+    "description": "整合composer进入whmcs系统",
+    "type": "library",
+    "require": {
+        "liumapp/payment": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liumapp",
+            "email": "liumapp.com@gmail.com"
+        }
+    ]
+}
